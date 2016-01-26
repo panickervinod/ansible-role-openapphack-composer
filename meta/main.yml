@@ -1,0 +1,19 @@
+---
+dependencies: [openapphack.php]
+
+galaxy_info:
+  author: openapphack
+  description: Composer PHP Dependency Manager
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 1.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - all
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - packaging
+    - web

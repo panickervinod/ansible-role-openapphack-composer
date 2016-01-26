@@ -1,0 +1,7 @@
+---
+- hosts: localhost
+  remote_user: root
+
+  roles:
+    - openapphack.php
+    - ansible-role-openapphack-composer
